@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ended</string>
+    <string name="accessibility_description">
+        Ended uses accessibility services to detect when you open short-form video apps (Instagram Reels, YouTube Shorts, Facebook Reels, Snapchat Spotlight).\n\n
+        • We do NOT read or record any screen content\n
+        • We do NOT collect any personal information\n
+        • We only detect which app is in the foreground\n
+        • All data stays on your device\n\n
+        This enables video counting awareness features.
+    </string>
+</resources>
